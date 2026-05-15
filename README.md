@@ -201,7 +201,7 @@ Users can enter passenger details and predict whether the passenger is likely to
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone (https://github.com/keer-thana25/Random-Forest-Classification.git)
 ```
 
 Move to the project folder:
